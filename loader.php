@@ -4,8 +4,8 @@
 /*
  Plugin Name: BuddyForms Easy Digital Downloads
  Plugin URI: http://buddyforms.com/downloads/buddyforms-easy-digital-downloads/
- Description: BuddyForms Easy Digital Downloads
- Version: 0.1
+ Description: This Plugin adds a new section to the BuddyForms Form Builder with all EDD fields to create Product creation forms for the frontend
+ Version: 1.0
  Author: ThemeKraft
  Author URI: https://themekraft.com/buddyforms/
  License: GPLv2 or later
